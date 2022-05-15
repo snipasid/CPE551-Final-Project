@@ -1,8 +1,8 @@
-# CPE551-Final-Project
+# CPE551-Final-Project - NBA MVP AND ROTY Predictor
 Worked with Hardik Veguru and Sankalp Patel
 
+# 
+[Final Video](https://youtu.be/BI2hOSQGou4)
 
-######
-Worked making NBA MVP and ROTY Predictor
-
-# [Final Video](https://youtu.be/BI2hOSQGou4)
+# 
+[Project Summary](./Summary/CPE551 Final Project Summary.pdf)
