@@ -5,4 +5,4 @@ Worked with Hardik Veguru and Sankalp Patel
 [Final Video](https://youtu.be/BI2hOSQGou4)
 
 # 
-[Project Summary](./Summary/CPE551 Final Project Summary.pdf)
+[Project Summary](./Summary/CPE551FinalProjectSummary.pdf)
